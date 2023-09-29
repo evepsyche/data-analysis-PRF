@@ -23,7 +23,6 @@ O objetivo desse projeto é analisar os dados a fim de obter insights sobre os a
   * Matplotlib, Seaborn
   * Limpeza dos dados
   * Pandas
-  * PyDeck
 
 ## Competências
   * Limpeza dos dados
